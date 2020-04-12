@@ -1,0 +1,42 @@
+[33mcommit 5ab67a2de8a0779414cf545f4dac43991112ef8b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: João Rangel <joaohcrangel@gmail.com>
+Date:   Mon Apr 16 19:40:03 2018 -0300
+
+    ok
+
+[33mcommit 9a67bd26696193db9f0f1693a7a03f9ada07c52f[m
+Merge: 951d8a4 6fb897b
+Author: Glaucio Daniel <treinamentos@hcode.com.br>
+Date:   Mon Apr 16 18:23:45 2018 -0300
+
+    Merge branch 'master' of https://github.com/hcodebr/curso-javascript-projeto-calculadora-clone
+
+[33mcommit 951d8a42adb44817ebd01409a845210ed8429d4a[m
+Author: Glaucio Daniel <treinamentos@hcode.com.br>
+Date:   Mon Apr 16 18:22:56 2018 -0300
+
+    Correção SVG
+
+[33mcommit 6fb897bafd9ba2e89430b6c3e26c78512e48f750[m
+Author: João Rangel <joaohcrangel@gmail.com>
+Date:   Wed Apr 11 14:20:18 2018 -0300
+
+    README
+
+[33mcommit 73d012d3fe310b8a18bfeff073d279618aa92bc4[m
+Author: João Rangel <joaohcrangel@gmail.com>
+Date:   Wed Apr 11 12:30:39 2018 -0300
+
+    init
+
+[33mcommit 28c4579f43f5ae6e5c93ece089c9524ad2330525[m
+Author: João Rangel <joaohcrangel@gmail.com>
+Date:   Wed Apr 11 12:30:23 2018 -0300
+
+    init
+
+[33mcommit 3a35485085b358d996684b64505542963dac3345[m
+Author: João Rangel <joaohcrangel@gmail.com>
+Date:   Wed Apr 11 12:30:14 2018 -0300
+
+    first commit
